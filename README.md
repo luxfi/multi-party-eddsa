@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="multi-party-eddsa" width="880"></p>
+
 
 # Multi Party EdDSA signatures
 Rust implementation of multiparty Ed25519 signature scheme.
